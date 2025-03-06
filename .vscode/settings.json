@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.shellIntegration.enabled": true,
+    "git.terminalGitEditor": true,
+    "git.enabled": true
+}
